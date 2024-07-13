@@ -6,6 +6,7 @@
 - **Duration:** 4 hours
 - **Conducted by:** TechTip24
 - **Mentor:** Ms. Aditi Gupta
+- **Date Held:** 07th July, 2024
 
 ### Project Objective
 The objective of this project is to create a comprehensive and interactive sales report for an e-commerce business using Power BI.
